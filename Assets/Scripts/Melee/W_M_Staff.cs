@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class W_M_Staff : W_Melee
 {
-    public W_M_Staff() : base(Resources.Load("MeleeWeapons/Staff") as GameObject, "Martillo Común",4,false,25f,1250)
+    public W_M_Staff() : base(Resources.Load("MeleeWeapons/Staff") as GameObject, "BastÃ³n",4,false,25f,1250)
     {
 
     }

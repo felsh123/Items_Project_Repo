@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Antidote_Potion : Consumable
 {
-    public Antidote_Potion() : base(Resources.Load("Items/Potion_Green") as GameObject, "Antídoto", 2, 50f, 1500)
+    public Antidote_Potion() : base(Resources.Load("Items/Potion_Green") as GameObject, "AntÃ­doto", 2, 50f, 1500)
     {
 
     }

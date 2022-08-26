@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class W_M_Dagger : W_Melee
 {
-    public W_M_Dagger() : base(Resources.Load("MeleeWeapons/Dagger") as GameObject, "Daga Común",3,true,20f,1250)
+    public W_M_Dagger() : base(Resources.Load("MeleeWeapons/Dagger") as GameObject, "Daga ComÃºn",3,true,20f,1250)
     {
 
     }
